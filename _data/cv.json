@@ -1,16 +1,13 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lin Changxing",
+    "email": "1729919327@qq.com",
+    "phone": "+86 15220464082",
+    "website": "https://lincx-southchina.github.io",
+    "summary": "硕士研究生，专注于计算机视觉（三维建模、目标检测、语义分割）和机器学习研究。拥有有限元与离散元仿真及嵌入式系统开发经验。导师为华南农业大学工学院杨丹彤教授。",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Guangzhou",
+      "region": "Guangdong Province"
     },
     "profiles": [
       {
@@ -19,134 +16,155 @@
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "GitHub",
+        "username": "LIncx-southchina",
+        "url": "https://github.com/LIncx-southchina"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "ORCID",
+        "username": "your-orcid-id",
+        "url": "http://orcid.org/your-orcid-url"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Zhongwang Discrete Element Simulation Technology",
+      "position": "Technical Support Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-12",
+      "summary": "Analyzed and reproduced complex simulation cases using ZWDEM and ZW3D software to diagnose functional issues and assist software improvements. Authored comprehensive technical documentation to streamline customer support, improving self-service capabilities for users of ZWDEM software."
+    },
+    {
+      "company": "Altair Finite Element Structural Simulation (HyperMesh)",
+      "position": "Technical Support Intern",
+      "startDate": "2023-10",
+      "endDate": "2024-04",
+      "summary": "Troubleshooted customer technical inquiries and delivered software training sessions, fostering user proficiency with the HyperWorks suite (HyperMesh, HyperView) and EDEM. Proficient in using the HyperWorks series of tools and EDEM for simulation technical support."
+    },
+    {
+      "company": "Graduate School of South China Agricultural University",
+      "position": "Part-time Counselor",
+      "startDate": "2023-09",
+      "endDate": "2023-12",
+      "summary": ""
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "South China Agricultural University",
+      "area": "Agricultural Mechanical Engineering",
+      "studyType": "Master of Engineering",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "gpa": "3.6"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Beijing Institute of Technology Zhuhai College",
+      "area": "Aerospace Manufacturing Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-09",
+      "endDate": "2023-07"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Image Processing",
+      "keywords": [
+        "YOLO",
+        "DeepLab",
+        "3DFlow",
+        "MeshLab",
+        "Photoshop",
+        "CapCut"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "C"
+      ]
+    },
+    {
+      "name": "Simulation Analysis",
+      "keywords": [
+        "Finite Element Simulation (HyperMesh)",
+        "Discrete Element Simulation (EDEM/ZWDE)",
+        "Multibody Dynamics (Recurdyn)"
+      ]
+    },
+    {
+      "name": "CAD/Graphics Design Software",
+      "keywords": [
+        "AutoCAD",
+        "ZWDE CAD",
+        "ZWDE 3D",
+        "CATIA",
+        "SolidWorks"
+      ]
+    },
+    {
+      "name": "Languages and Certifications",
+      "keywords": [
+        "CET-6",
+        "BEC Business English Intermediate",
+        "IELTS (preparing)"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "National Computer Level 2 Certificate",
+        "Motor Vehicle Driver's License (C1)"
+      ]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A method for detecting the impurity rate of cut sugarcane segments in drone-captured images, based on YOLOv8.",
+      "summary": "Use Roboflow to calibrate and enhance the data, then perform target detection using an improved YOLOv8 architecture. Integrate the optimized model into the JETSON edge device, design the UI interface and develop a Python-based impurity rate calculation tool."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Subsequent supplements",
+      "summary": "This section includes ongoing research and manuscripts under preparation."
     }
   ],
-  "presentations": [
+  "projects": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Physics Experiment Design Competition (Embedded Systems Group)",
+      "date": "2020",
+      "summary": "Led a 4-person team to engineer an ultrasonic suspension device based on Arduino UNO, achieving stable suspension of small objects via a designed C program."
     }
   ],
-  "teaching": [
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "name": "First-class Graduate Scholarship",
+      "date": "Twice"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "name": "National Encouragement Scholarship",
+      "date": "Twice"
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Second-class University Scholarship",
+      "date": "Twice"
+    },
+    {
+      "name": "Third Prize in the Asia-Pacific Cup Mathematical Modeling Competition",
+      "date": ""
+    },
+    {
+      "name": "Third Prize in the Blue Bridge Cup Python Provincial Competition",
+      "date": ""
+    },
+    {
+      "name": "Second Prize in the Guangdong Provincial Physics Experiment Design Competition",
+      "date": ""
+    },
+    {
+      "name": "University-level 'English Learning Model'",
+      "date": ""
     }
   ]
 }
