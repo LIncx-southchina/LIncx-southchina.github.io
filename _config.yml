@@ -13,7 +13,7 @@ title                    : "Lin cx/ Personal homepage"
 title_separator          : "-"
 name                     : &name "林长星"
 description              : &description "personal description"
-url                      : https://github.com/LIncx-southchina/LIncx-southchina.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://lincx-southchina.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LIncx-southchina/LIncx-southchina.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "./assets/m3.png"
   name             : "Lin Changxing"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "hello world"
   location         : "China-Guangzhou"
   employer         : "SouthChina Agriculture University"
   uri              : # URL
