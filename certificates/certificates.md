@@ -15,4 +15,6 @@ permalink: /certificates/
 * **颁发机构：** deeplearning.ai
 * **获得时间：** 2024 年 1 月
 * **证书图片：**
+* 321321312312
+* 3213213213123
     [![证书图片](/images/certificate_ai.png)]()
