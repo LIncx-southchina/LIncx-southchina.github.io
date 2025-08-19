@@ -1,19 +1,40 @@
 ---
 layout: archive
-title: "Certificates"
-permalink: /certificates/
+title: "生活与爱好"
+permalink: /life/
 ---
 
-/
-下面是我获得的部分专业证书：
+欢迎来到我的生活页面！这里记录了我在学术研究之外的一些个人爱好和精彩瞬间。
 
-### 机器学习基础课程证书
-* **颁发机构：** Coursera / Stanford University
-* **获得时间：** 2023 年 5 月
-* **证书链接：** [点击查看](https://www.coursera.org/verify/YOUR_CERTIFICATE_ID)
+---
 
-### 深度学习专项课程证书
-* **颁发机构：** deeplearning.ai
-* **获得时间：** 2024 年 1 月
-* **证书图片：**
-    [![证书图片](/images/certificate_ai.png)]()
+### 我的照片集锦
+
+这里展示了我拍摄的一些照片。
+
+[![照片1](/assets/m1.png)](/assets/m1.png)
+*照片1的描述。*
+
+[![照片2](/assets/m2.png)](/assets/m2.png)
+*照片2的描述。*
+
+[![照片3](/assets/m3.png)](/assets/m3.png)
+*照片3的描述。*
+
+[![照片4](/assets/m4.png)](/assets/m4.png)
+*照片4的描述。*
+
+[![照片5](/assets/m5.png)](/assets/m5.png)
+*照片5的描述。*
+
+[![照片6](/assets/m6.png)](/assets/m6.png)
+*照片6的描述。*
+
+[![照片7](/assets/m7.png)](/assets/m7.png)
+*照片7的描述。*
+
+[![照片8](/assets/m8.png)](/assets/m8.png)
+*照片8的描述。*
+
+[![照片9](/assets/m9.png)](/assets/m9.png)
+*照片9的描述。*
