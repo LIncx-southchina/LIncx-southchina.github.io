@@ -1,5 +1,4 @@
 ---
-LIncx-southchina.github.io/_pages
 layout: archive
 title: "Certificates"
 permalink: /certificates/
