@@ -17,7 +17,7 @@ main:
     url: /life/    
     
   - title: "certificates"
-    url: /cetificates/    
+    url: /certificates/    
     
   # - title: "CV"
   #   url: /cv-json/
