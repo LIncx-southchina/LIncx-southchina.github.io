@@ -16,16 +16,19 @@ main:
     url: /cv/
 
 
+
+
+
+  - title: "certificates"
+    url: /certificates/    
+
+
     
 
   - title: "life"
     url: /life/    
 
 
-
-    
-  - title: "certificates"
-    url: /certificates/    
     
   # - title: "CV"
   #   url: /cv-json/
