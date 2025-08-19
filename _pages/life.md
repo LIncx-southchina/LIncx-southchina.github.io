@@ -12,29 +12,27 @@ permalink: /life/
 
 这里展示了我拍摄的一些照片。
 
+[![照片8](/assets/m8.png)](/assets/m8.png)
+
+
 [![照片1](/assets/m1.png)](/assets/m1.png)
-*照片1的描述。*
+
 
 [![照片2](/assets/m2.png)](/assets/m2.png)
-*照片2的描述。*
+
 
 [![照片3](/assets/m3.png)](/assets/m3.png)
-*照片3的描述。*
 
 [![照片4](/assets/m4.png)](/assets/m4.png)
-*照片4的描述。*
 
 [![照片5](/assets/m5.png)](/assets/m5.png)
-*照片5的描述。*
+
 
 [![照片6](/assets/m6.png)](/assets/m6.png)
-*照片6的描述。*
 
 [![照片7](/assets/m7.png)](/assets/m7.png)
-*照片7的描述。*
 
-[![照片8](/assets/m8.png)](/assets/m8.png)
-*照片8的描述。*
 
-[![照片9](/assets/m9.png)](/assets/m9.png)
-*照片9的描述。*
+
+
+
