@@ -10,19 +10,19 @@ permalink: /certificates/
 
 ### 获得的证书
 
-#### 证书 1：[证书名称]
+#### 
 [![证书 1](/assets/p1.png)](/assets/p1.png)
 
 
 ---
 
-#### 证书 2：[证书名称]
+#### 
 [![证书 2](/assets/p2.png)](/assets/p2.png)
 
 
 ---
 
-#### 证书 3：[证书名称]
+#### 
 [![证书 3](/assets/p3.png)](/assets/p3.png)
 
 
@@ -40,7 +40,7 @@ permalink: /certificates/
 
 ---
 
-#### 证书 6：[证书名称]
+#### 
 [![证书 6](/assets/p6.png)](/assets/p6.png)
 
 
@@ -64,36 +64,35 @@ permalink: /certificates/
 
 ---
 
-#### 证书 10：[证书名称]
+#### 
 [![证书 10](/assets/p10.png)](/assets/p10.png)
 
 
 ---
 
-#### 证书 11：[证书名称]
+#### 
 [![证书 11](/assets/p11.png)](/assets/p11.png)
 
 
 ---
 
-#### 证书 12：[证书名称]
+#### 
 [![证书 12](/assets/p12.png)](/assets/p12.png)
 
 
 ---
 
-#### 证书 13：[证书名称]
+#### 
 [![证书 13](/assets/p13.png)](/assets/p13.png)
 
 
 ---
 
-#### 证书 14：[证书名称]
+#### 
 [![证书 14](/assets/p14.png)](/assets/p14.png)
 
 
 ---
 
-#### 证书 15：[证书名称]
-[![证书 15](/assets/p15.png)](/assets/p15.png)
+
 
