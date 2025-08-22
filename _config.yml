@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    :   "Lin Changxing / Personal home"
+title                    :   "Lin Changxing / Personal homepage"
 title_separator          : "-"
 name                     : &name "Lin Changixng"
 description              : &description "man"
@@ -22,7 +22,7 @@ repository               : "LIncx-southchina/LIncx-southchina.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/m3.png"
+  avatar           : "assets/m3.png"
   name             : "林长星"
   pronouns         : # example: "she/her"  
   bio              : "a certian man"
