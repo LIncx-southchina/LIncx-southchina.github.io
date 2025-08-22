@@ -15,7 +15,7 @@ I ranked fourth in my major upon admission, received two first-class scholarship
 
 I am extremely fortunate to be guided by Professor [Yang Dantong](https://gcxy.scau.edu.cn/2015/0318/c16514a348800/page.htm), who is from the the Engineering College
 
-I submitted a patent titled "A Method for Measuring Trash Content in Mechanical Sugarcane Harvesting." In the process, I learned algorithms for object detection, semantic segmentation, and 3D modeling.
+I submitted a patent titled "A Method for Measuring Impurity Rate in Sugarcane Piles Obtained by Mechanical Harvesting." In the process, I learned algorithms for object detection, semantic segmentation, and 3D modeling.
 
 Although I haven't published a paper yet, please believe in my academic potential.
 
